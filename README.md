@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+@copyright = BrannumViewTool::Renderer.copyright 'Nicholas Brannum', 'All rights reserved'
 
 ## Development
 
