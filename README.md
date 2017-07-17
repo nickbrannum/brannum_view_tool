@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
+```ruby
 BrannumViewTool::Renderer.copyright 'Nicholas Brannum', 'All rights reserved'
+```
 
 ## Development
 
